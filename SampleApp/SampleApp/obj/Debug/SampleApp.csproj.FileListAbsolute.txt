@@ -1,0 +1,39 @@
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\csc.exe
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\vbc.exe
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\VBCSCompiler.exe
+E:\Sample Projects\SampleApp\SampleApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Sample Projects\SampleApp\SampleApp\bin\SampleApp.dll.config
+E:\Sample Projects\SampleApp\SampleApp\bin\SampleApp.dll
+E:\Sample Projects\SampleApp\SampleApp\bin\SampleApp.pdb
+E:\Sample Projects\SampleApp\SampleApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sample Projects\SampleApp\SampleApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sample Projects\SampleApp\SampleApp\obj\Debug\SampleApp.dll
+E:\Sample Projects\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\csc.exe
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\System.Collections.Immutable.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\vbc.exe
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\VBCSCompiler.exe
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\roslyn\VBCSCompiler.exe.config
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\SampleApp.dll.config
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\SampleApp.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\SampleApp.pdb
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TFS\Sample\Proj\SampleApp\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+E:\TFS\Sample\Proj\SampleApp\SampleApp\obj\Debug\SampleApp.dll
+E:\TFS\Sample\Proj\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
